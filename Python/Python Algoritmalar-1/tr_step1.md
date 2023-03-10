@@ -17,7 +17,7 @@ pyramid(x)
 ### Kodun Çalışma Mantığı
 1. İlk olarak ```input``` komutunu kullanarak, satır değerini almak iiçin bir x değişkeni tanımlayarak kullanıcdan istediği değeri alıyoruz.
 2. Piramit şeklinin çizilmesini sağlayacak fonksiyonumuzu ```def``` komutu ile tanımlıyoruz.
-3. Since we will draw our pyramid using rows and columns, we define 2 for loops that will be nested. With the formula ```(x-i)+1``` used in the second for loop, the necessary spaces are created for each line; The variable ```i``` is the current row number.
-4. The formula ```2*i-1``` in the ``while`` loop allows adding the asterisk for each position where the row value is i.
+3. Satır ve sütunları kullanarak piramidimizi çizeceğimiz için iç içe olacak 2 adet for döngüsü tanımlıyoruz. İkinci for döngüsünde kullanılan ``(x-i)+1`` formülü ile her satır için gerekli boşluklar oluşturulur; ```i``` değişkeni geçerli satır numarasıdır.
+4. "while" döngüsündeki ```2*i-1``` formülü, satır değerinin i olduğu her konum için yıldız eklenmesine izin verir.
 
->In this step of our training, we learned the algorithm logic at a basic level by drawing a pyramid. In our next step, we will ask you to develop an algorithm based on the desired output.
+>Eğitimimizin bu adımında bir piramit çizerek algoritma mantığını temel düzeyde öğrendik. Bir sonraki adımda, sizden istenen çıktıya dayalı bir algoritma geliştirmenizi isteyeceğiz.
