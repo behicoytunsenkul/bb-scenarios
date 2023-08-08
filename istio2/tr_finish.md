@@ -1,0 +1,2 @@
+### 🎉 TEBRİKLER 🎉
+Istio Kurulumunu ve Temel Kullanımı eğitimimizi başarılı bir şekilde tamamladınız. **Senaryoyu Bitir** butonuna tıklayarak eğitimi sonlandırabilir ve Istio'u basit bir örnek üzerinde inceleyeceğimiz eğitimimize geçebilirsiniz.
